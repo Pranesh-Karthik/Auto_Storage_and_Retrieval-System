@@ -1,0 +1,328 @@
+{
+  "project": "Auto_Storage_and_Retrieval System",
+  "format": "Full project directory ZIP",
+  "file_count": 64,
+  "archive_sha256": "f767fde66db0c5042dc21b6de89056e7b6a6faf3a0c11829b81feab4fe4ff296",
+  "files": [
+    {
+      "path": "AdditionalFiles/PLCM/plcmArchive.pma14_1",
+      "bytes": 4,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119"
+    },
+    {
+      "path": "Auto_Storage_and_Retrieval System.ap14",
+      "bytes": 7711,
+      "sha256": "4c79e301814f722cb48e86d5f72f14bd09f384fa077f115676402f2d1009711c"
+    },
+    {
+      "path": "IM/HMI/BrokerInfo.dat",
+      "bytes": 272,
+      "sha256": "bede0c3c52436fac2406073592b6ad16b26852ae670664be13d007b6fb18d3bc"
+    },
+    {
+      "path": "IM/HMI/DeviceFolders.dat",
+      "bytes": 40,
+      "sha256": "ca908ff2af1f03d97c05e2252d37a6c139e2b025dfb8da6ab37d7a94b89a0b35"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/DownloadTask.xml",
+      "bytes": 880,
+      "sha256": "ca57ce9483aa3adda53771980138ce20b35047a8fc33fd8a015cd9135e7ad228"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/HmiSRT.ini",
+      "bytes": 70,
+      "sha256": "a22fa2ceda96cedbc6a31776c61c33bf5102cf9d9695bc7084936c1160370739"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/pdata.ETH0.cnk",
+      "bytes": 176,
+      "sha256": "ce187bba4e0bc8827d68f8d0c5e1a9c6c000968b73a37d906588c403c5326f27"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/pdata.ORIE.cnk",
+      "bytes": 94,
+      "sha256": "5b0f1e21d4711fd4f21bdda1b02e9383cddf213aca5d5a24791e7479cc7e8e4c"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/pdata.pwx",
+      "bytes": 348,
+      "sha256": "db361ce3a788cb37fc74225e0ffcad0b51f41c46b9f707af994eccf8761fa494"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/pdata.rld",
+      "bytes": 23048,
+      "sha256": "7a0a07312f37cd3a7842d4d648bff3bdb91ec60ba2ec32c6b9011fc56377d6a2"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/pdata.srt",
+      "bytes": 229048,
+      "sha256": "c05d0dea605d1f297cfbc4d2c10644507179633631a4429e8a5d1270c888ad16"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/ProjectCharacteristics.rdf",
+      "bytes": 160,
+      "sha256": "fee39e106fcd6ce9b71d5a421797a87701a07d3a158a682d6bf65817c9fb2d42"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/D29000000.qml",
+      "bytes": 4465,
+      "sha256": "52cc1c783cda84dd5fbda49de4bb3a2b048f8a5ebda5164503ebaf88998e8a05"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/D29000001.qml",
+      "bytes": 2835,
+      "sha256": "a89b7f91f125893deadb7a8737b1b0b611fa8be8637d3659c1adfa198c8fe236"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/D29000002.qml",
+      "bytes": 1121,
+      "sha256": "6501e0acc87bd45389cd440baad57de57b8ae8d59f13dd20f0ffb43c34406860"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/D29000003.qml",
+      "bytes": 3543,
+      "sha256": "f812b7011da4d6d1b9e267a5f27b4ee97997cd54d5a317ac13542d23f8384874"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/D29000004.qml",
+      "bytes": 2377,
+      "sha256": "e25fbd182b7322d3b5433eedda388955f7236978e63b2ed8f95d5ec53f03ecda"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/D29000005.qml",
+      "bytes": 3287,
+      "sha256": "fc187328b26e9690d5a5ae7d5e7dab3b26be79ccda86a3b3d12ea987f6787362"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/D29000006.qml",
+      "bytes": 4390,
+      "sha256": "ce277a294a2ce70ee89f0bbaa0df0de072f07df19f8fb85fc1c1638805a8c679"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/D29000007.qml",
+      "bytes": 2917,
+      "sha256": "04fbcd9384096de9f98ede75f1b051e85a20d495562d090f5ebd6ab33c46bffd"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/D29000008.qml",
+      "bytes": 3529,
+      "sha256": "69276be3d6238c19b37c66706fe400029dd81aebcdabcf8e7be0573e3bd78fc1"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/D29000009.qml",
+      "bytes": 2917,
+      "sha256": "f0c3933459593e4c992ca144ce3d7f1db3ef6bceb8d7f80e175625e630f34c51"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/D2900000A.qml",
+      "bytes": 4510,
+      "sha256": "f9670b04f817e7e4a0f375a912cd201d463fb909b5bf3ca1cc633c15c5fa39a6"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/Global.qml",
+      "bytes": 20503,
+      "sha256": "d3215e4ac3e3d62a09770224066722d7843d179e14ed19be7e1786458f73f6c8"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/P1000000.qml",
+      "bytes": 2627,
+      "sha256": "831fe8ce7650d7c035fc6615d2ca076730b66c58ffa66bb649c2e2a95396bb93"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/P1000001.qml",
+      "bytes": 769,
+      "sha256": "904a969f6e3345070b294fc62cd9dd40c8e5262aaf018561baed952bb7b23881"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/P1000002.qml",
+      "bytes": 7767,
+      "sha256": "72ea742c86fe0cf1797fe6304457f63e20caa775438364701da34beaa031da0a"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/P1000003.qml",
+      "bytes": 2696,
+      "sha256": "d6c532e32c3332cdf16528369cb43dffe76bd1323315819d281376ac3dead18b"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/P1000004.qml",
+      "bytes": 13809,
+      "sha256": "9e6abe1b0c73903c5c72d32a9a6d9a755688cdb17793e91788304263c2705791"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/P1000005.qml",
+      "bytes": 1994,
+      "sha256": "706509f5fc343340f40b49fa118482846a39bf821df36258ca879d8ad2245229"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/P1000006.qml",
+      "bytes": 1994,
+      "sha256": "c382fdf9037c40d63ed8620110652c5d398f2d0ead83a4f357e5f2beeb355cbe"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/qcontrols/T26000000.qml",
+      "bytes": 6735,
+      "sha256": "c4a059cd533f8f12fab7837a8fef5b381f31044c3fca4f5bda8c234a0776bb44"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/SimWork/pdata.ETH0.cnk",
+      "bytes": 176,
+      "sha256": "ce187bba4e0bc8827d68f8d0c5e1a9c6c000968b73a37d906588c403c5326f27"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/SimWork/pdata.ORIE.cnk",
+      "bytes": 94,
+      "sha256": "5b0f1e21d4711fd4f21bdda1b02e9383cddf213aca5d5a24791e7479cc7e8e4c"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/SimWork/pdata.pwx",
+      "bytes": 348,
+      "sha256": "db361ce3a788cb37fc74225e0ffcad0b51f41c46b9f707af994eccf8761fa494"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/SimWork/pdata.rt_file.@MSG",
+      "bytes": 1048576,
+      "sha256": "ab515ee99e0e4e0557a2f0d11c133d7675bc6337e5ccf5f75744252ba1eb2177"
+    },
+    {
+      "path": "IM/HMI/S/0/Generates/SimWork/pdata.srt",
+      "bytes": 229048,
+      "sha256": "c05d0dea605d1f297cfbc4d2c10644507179633631a4429e8a5d1270c888ad16"
+    },
+    {
+      "path": "IM/HMI/S/0/intermediate.dti",
+      "bytes": 111,
+      "sha256": "a0e880d8c32190868e1d52e9e12117dff63cac9709c2d08a4a375de4c07242cb"
+    },
+    {
+      "path": "IM/HMI/S/0/RtData.idx",
+      "bytes": 262694,
+      "sha256": "a02eda7f8ef0a53e164d634ab5ee2ba2715fc067962bb84f6097c54dba4cd243"
+    },
+    {
+      "path": "IM/HMI/S/0/RtData.plf",
+      "bytes": 8433545,
+      "sha256": "c982e8e587397a8a6b4090772231af95300cc43444c36467335ae8b35ca09050"
+    },
+    {
+      "path": "IM/SearchIndex/_3el.fdt",
+      "bytes": 176673,
+      "sha256": "d5c49d8e23e4059c45ff378b6618fcf64c1930f62a914e35945669e0bd0fdddf"
+    },
+    {
+      "path": "IM/SearchIndex/_3el.fdx",
+      "bytes": 4612,
+      "sha256": "3bd19fa469770ae44bb4111a498e9dd4cf06030b9f6f9f2b9fcec894d6a04a66"
+    },
+    {
+      "path": "IM/SearchIndex/_3el.fnm",
+      "bytes": 2682,
+      "sha256": "8db3eaeb9532fa5c1be2c7a452e4889b4f301c835fe04e7e7d8931adf4213413"
+    },
+    {
+      "path": "IM/SearchIndex/_3el.frq",
+      "bytes": 14347,
+      "sha256": "0dba066208e8613265c2314a6d7178e0526d585ff41e73b70c55b1955769b216"
+    },
+    {
+      "path": "IM/SearchIndex/_3el.prx",
+      "bytes": 14331,
+      "sha256": "30d4b9da1dffb1e420ebf074214df97c3da89c9c6cba067c23f71da0eac94dc0"
+    },
+    {
+      "path": "IM/SearchIndex/_3el.tii",
+      "bytes": 529,
+      "sha256": "a7823f6f0fb6078d2981f22d06db5dcce6b84bbbd8f3ca6414f60fe7712c68d7"
+    },
+    {
+      "path": "IM/SearchIndex/_3el.tis",
+      "bytes": 49495,
+      "sha256": "355c4d0bcaf8bb376045c0d5f633eb21d2e62e82401c98a90c48b2f26355f93c"
+    },
+    {
+      "path": "IM/SearchIndex/_3el.tvd",
+      "bytes": 6279,
+      "sha256": "ce17fb749ea0c39dcc3f0ceee31e7b7965f14552397b2125a069204cd7c7b58a"
+    },
+    {
+      "path": "IM/SearchIndex/_3el.tvf",
+      "bytes": 90797,
+      "sha256": "78164b55bb054087bc7cb89610085ef6199c9d8ae98c605b2e760480a277f59e"
+    },
+    {
+      "path": "IM/SearchIndex/_3el.tvx",
+      "bytes": 9220,
+      "sha256": "4c1034ffcbd21486635b5168a3e77855a97f64132b72bd9288a540acbc375089"
+    },
+    {
+      "path": "IM/SearchIndex/_3el_1.del",
+      "bytes": 14,
+      "sha256": "358662bbd8b95d99974baa01d58f50d6a51376ba9021ce662bc703b4cd770ef4"
+    },
+    {
+      "path": "IM/SearchIndex/_3em.cfs",
+      "bytes": 4284,
+      "sha256": "68b354386c1de7294ceabab4bd96b3897a9494e7f62ebc25a49402a804cf0e94"
+    },
+    {
+      "path": "IM/SearchIndex/segments.gen",
+      "bytes": 20,
+      "sha256": "faf4008999da2e0648a434d62f54e5efc59ce6bc9da8b760a80457f3a64e09e7"
+    },
+    {
+      "path": "IM/SearchIndex/segments_1vo",
+      "bytes": 481,
+      "sha256": "f60d957c41a7fc6afe37280b60b6e17fa925ac344a48a21d64d236f6e770e43d"
+    },
+    {
+      "path": "IM/SPL/options",
+      "bytes": 1736,
+      "sha256": "8c8d4cb14f22340800e7b4fae09dadfb75ea0e1197200d8d35849baa89f9c81c"
+    },
+    {
+      "path": "System/PEData/Meta/ChangeListConsumer/HmiBase.xml",
+      "bytes": 2638,
+      "sha256": "009f82519851655bc133e9f023ce80a5dadd8913b726d2da868a1e60bd4319de"
+    },
+    {
+      "path": "System/PEData/Meta/ChangeListConsumer/Iecpl.xml",
+      "bytes": 2638,
+      "sha256": "009f82519851655bc133e9f023ce80a5dadd8913b726d2da868a1e60bd4319de"
+    },
+    {
+      "path": "System/PEData/Meta/ChangeListConsumer/Siemens.Simatic.Lang.IPI.Target.xml",
+      "bytes": 2638,
+      "sha256": "009f82519851655bc133e9f023ce80a5dadd8913b726d2da868a1e60bd4319de"
+    },
+    {
+      "path": "System/PEData/Meta/ChangeListConsumer/Siemens.Simatic.Lang.Online.xml",
+      "bytes": 2638,
+      "sha256": "009f82519851655bc133e9f023ce80a5dadd8913b726d2da868a1e60bd4319de"
+    },
+    {
+      "path": "System/PEData/Meta/ChangeListConsumer/Siemens.Simatic.Lang.xml",
+      "bytes": 2638,
+      "sha256": "009f82519851655bc133e9f023ce80a5dadd8913b726d2da868a1e60bd4319de"
+    },
+    {
+      "path": "System/PEData/Meta/ChangeListProvider/Siemens.Automation.DomainModel.xml",
+      "bytes": 2202,
+      "sha256": "6dcb36901217485dd657f330a6e0215e37911295df2540f56306255e3783ce5e"
+    },
+    {
+      "path": "System/PEData.idx",
+      "bytes": 71389,
+      "sha256": "2ceef29712c1aa6522171bf86c231922a9a79c4b84edd92fa565ee004ba94271"
+    },
+    {
+      "path": "System/PEData.plf",
+      "bytes": 1736981,
+      "sha256": "d320d9d401d5f7990f24a559b53c129306150d65ee23e8aa58c91d78eee55311"
+    },
+    {
+      "path": "XRef/XRef.db",
+      "bytes": 237568,
+      "sha256": "3bf1458b9863cae6b343a2b0b27048eec524f4d2af3a57973b7e32084fd4a11d"
+    }
+  ]
+}
