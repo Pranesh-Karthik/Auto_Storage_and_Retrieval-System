@@ -21,6 +21,14 @@ The ZIP contains a snapshot of the complete project directory, including its pro
 
 The ZIP was checked for archive integrity, and each packaged file was compared against the original using SHA-256. Compilation, PLC execution, and an end-to-end simulation have not been verified as part of this upload.
 
-## Simulation and demonstration
+## Demonstration video
 
-The separate simulation deliverable, Factory I/O scene, and demonstration video are planned additions. Any supporting simulation files already inside the original TIA project folder are retained in the project snapshot.
+[Download the demonstration video](https://github.com/Pranesh-Karthik/Auto_Storage_and_Retrieval-System/releases/tag/project-demo) from the release assets and open the MP4 in a video player.
+
+The original recording is 430,627,862 bytes (about 431 MB).
+
+SHA-256 of the original video:
+
+bb02239d5b724b0ba158a508063380a9156983e7bfa2811fcc428617a0c421bc
+
+The project owner has omitted the separate simulation project from this repository. Supporting HMI files within the original TIA project folder remain in the project ZIP. The Factory I/O scene is a planned addition.
